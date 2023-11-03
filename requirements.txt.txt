@@ -1,0 +1,6 @@
+opencv-python
+pymouse
+pyscreenshot
+numpy
+pandas
+tk
